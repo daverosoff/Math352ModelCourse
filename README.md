@@ -1,0 +1,1 @@
+Files related to my Math 352 Differential Equations course at The College of Idaho.
