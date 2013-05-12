@@ -1,7 +1,8 @@
 Encoding:           UTF-8  
 LaTeX Input:        mmd-beamer-header  
 Title:              Repeated Roots  
-Subtitle:           Second-order Linear Homogeneous Equations
+Subtitle:           Second-order Linear Homogeneous Equations  
+Author:             D. Rosoff  
 Affiliation:        The College of Idaho  
 Date:               20 March 2013  
 base header level:  2  
@@ -16,9 +17,19 @@ LaTeX Footer:       mmd-beamer-footer
 
 ## The characteristic polynomial
 The second-order linear homogeneous equation with constant coefficients is
-\\( ay'' + by' + cy = 0 \\). We used a very sophisticated trick, called "guess-and-check", to discover solutions of exponential form: \\( y = e^{rt} \\).
+\\( ay'' + by' + cy = 0 \\). We used a very sophisticated trick to discover solutions of exponential form: \\( y = e^{rt} \\).
 
 <!-- \pause -->
+
+<!--
+\begin{block}{Sophisticated Trick}
+    Guess and check.
+\end{block}
+-->
+
+<!--
+\pause
+-->
 
 If such a \\( y \\) satisfies the differential equation, then \\( r \\) is a zero of the *characteristic polynomial* \\( ar^2 + br + c \\).
 
