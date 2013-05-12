@@ -218,3 +218,17 @@ pip-log.txt
 *.prj.bak
 *.sublime-*
 *.bak
+*.log
+*.aux
+*.synctex.gz
+*.pdf
+*[Qq]uiz*
+*[Ee]xam*
+*[Ss]olution*
+*.out
+*.glo
+*.idx
+*.ist
+*.snm
+*.nav
+*.toc
